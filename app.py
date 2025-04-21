@@ -49,6 +49,7 @@ def home():
              
              """)
     
+    
 def main():
     # st.title("Forcast Net")
     # tab1, tab2 =  st.tabs(['Login', 'Sign Up'])
